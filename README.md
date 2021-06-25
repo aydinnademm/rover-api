@@ -246,9 +246,22 @@ You will probably see results like:
 }
 ```
 
+Heroku
+-----
+Application url for Heroku: https://rover-api.herokuapp.com
+
+Tests
+-----
+Execute this command to run tests:
+
+```bash
+$ cd project_directory/
+$ php bin/phpunit tests
+```
+
 Insomnia Collection
 -----
-You can download the Insomnia collection [here](Insomnia_collection.json)
+You can download the Insomnia collection [here](Insomnia_2021-06-26.json)
 
 If you want to test the Heroku application, you can choose the "Heroku (prod)" environment in insomnia.
 
