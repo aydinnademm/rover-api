@@ -1,4 +1,4 @@
-Subscription
+Rover Manage Api
 ========================
 
 This app manages the subscription process of mobile apps.
