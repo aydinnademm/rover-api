@@ -1,7 +1,7 @@
 Rover Manage Api
 ========================
 
-This app manages the subscription process of mobile apps.
+This app manages the rovers.
 This project used to Symfony Framework(5.2 version)
 
 # Getting Started
